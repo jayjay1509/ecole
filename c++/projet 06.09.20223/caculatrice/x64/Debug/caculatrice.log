@@ -1,0 +1,3 @@
+﻿  caculatrice.cpp
+C:\ecole\c++\projet 06.09.20223\caculatrice\caculatrice.cpp(16,45): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'c'
+C:\ecole\c++\projet 06.09.20223\caculatrice\caculatrice.cpp(16,47): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'b'
