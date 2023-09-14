@@ -1,0 +1,37 @@
+debugeur permet de lance du code etape par etape 
+
+
+printf("resulta is %variable") c'est pour sortir sur la commande = cout
+scanf () = cin 
+
+" = double cote 
+' = cote
+
+la table askii
+
+le .cpp et le .h doit avoir le meme noms 
+
+ou lon mais int main on l'appelle main 
+
+un scope est un bout du code ou la variable est valide que dans le scope qui est deffinie 
+global scope est pour deffinrec des varible pout tout les bout de code 
+ 
+switch est comme if else else if mais faut break a la fini et pour chaque cas il faut ecrire case 'char' default= else 
+break a ne pas oubliet 
+
+!= nes pas egale
+
+#define () replace () c'est pour definire que sque sais pour parle en anglais 
+
+enum fruit [les fruit a enumere]
+
+
+#define log(message) sdt::cout <<"hello word"
+
+pour enum on mets une majuscule
+
+a++ = a = a + 1 
+
+
+
+
