@@ -34,7 +34,7 @@ void drawplayfield() {
             }
             else if (case_state == 1)
             {
-                std::cout << " x" << '\t';
+                std::cout << " -" << '\t';
             }
             else if (case_state == 3)
             {
