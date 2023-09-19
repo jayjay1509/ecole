@@ -1,16 +1,9 @@
 ﻿  chasse au tresor.cpp
-C:\ecole\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(64,17): error C2440: 'initialisation' : impossible de convertir de 'void' en 'int'
-C:\ecole\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(64,17): message : Les expressions de type void ne peuvent pas être converties en d'autres types
-C:\ecole\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(66,7): error C2065: 'cases' : identificateur non déclaré
-C:\ecole\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(68,10): error C2589: '<<' : jeton non conforme à droite de '::'
-C:\ecole\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(68,30): error C2598: les spécifications de la liaison doivent figurer au niveau de la portée globale
-C:\ecole\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(68,30): warning C4518: 'unknown-type ' : classe de stockage ou spécificateur(s) de type inattendu(es) ; ignoré(es)
-C:\ecole\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(68,30): warning C4502: 'linkage specification' nécessite l'utilisation du mot clé 'extern' et doit précéder tous les autres spécificateurs
-C:\ecole\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(68,30): error C2537: 'pas de tresor
-  ' : spécification de liaison non conforme
-C:\ecole\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(72,10): error C2589: '<<' : jeton non conforme à droite de '::'
-C:\ecole\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(72,24): error C2598: les spécifications de la liaison doivent figurer au niveau de la portée globale
-C:\ecole\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(72,24): warning C4518: 'unknown-type ' : classe de stockage ou spécificateur(s) de type inattendu(es) ; ignoré(es)
-C:\ecole\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(72,24): warning C4502: 'linkage specification' nécessite l'utilisation du mot clé 'extern' et doit précéder tous les autres spécificateurs
-C:\ecole\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(72,24): error C2537: ' tresor
-  ' : spécification de liaison non conforme
+J:\01_ECOLE\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(89,25): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+J:\01_ECOLE\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(125,12): warning C4129: '~' : caractère de séquence d'échappement non reconnu
+J:\01_ECOLE\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(125,12): warning C4129: '.' : caractère de séquence d'échappement non reconnu
+J:\01_ECOLE\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(126,12): warning C4129: '_' : caractère de séquence d'échappement non reconnu
+J:\01_ECOLE\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(127,12): warning C4129: ' ' : caractère de séquence d'échappement non reconnu
+J:\01_ECOLE\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(128,12): warning C4129: '/' : caractère de séquence d'échappement non reconnu
+J:\01_ECOLE\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(129,12): warning C4129: '_' : caractère de séquence d'échappement non reconnu
+  chasse au tresor.vcxproj -> J:\01_ECOLE\ecole\c++\projet 06.09.20223\chasse au tresor\x64\Debug\chasse au tresor.exe

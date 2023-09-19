@@ -1,2 +1,3 @@
 C:\ecole\c++\projet 06.09.20223\chasse au tresor\x64\Debug\chasse au tresor.exe
 C:\ecole\ecole\c++\projet 06.09.20223\chasse au tresor\x64\Debug\chasse au tresor.exe
+J:\01_ECOLE\ecole\c++\projet 06.09.20223\chasse au tresor\x64\Debug\chasse au tresor.exe
