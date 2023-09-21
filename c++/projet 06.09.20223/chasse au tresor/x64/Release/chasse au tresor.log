@@ -1,0 +1,18 @@
+﻿  chasse au tresor.cpp
+C:\ecole\git\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(11,22): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\ecole\git\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(91,3): error C2059: erreur de syntaxe : '?'
+C:\ecole\git\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(92,3): error C2059: erreur de syntaxe : '?'
+C:\ecole\git\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(93,3): error C2059: erreur de syntaxe : '?'
+C:\ecole\git\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(94,3): error C2059: erreur de syntaxe : '?'
+C:\ecole\git\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(95,3): error C2059: erreur de syntaxe : '?'
+C:\ecole\git\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(96,3): error C2059: erreur de syntaxe : '?'
+C:\ecole\git\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(97,3): error C2059: erreur de syntaxe : '?'
+C:\ecole\git\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(98,3): error C2059: erreur de syntaxe : '?'
+C:\ecole\git\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(99,3): error C2059: erreur de syntaxe : '?'
+C:\ecole\git\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(109,10): warning C4129: '~' : caractère de séquence d'échappement non reconnu
+C:\ecole\git\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(109,10): warning C4129: '.' : caractère de séquence d'échappement non reconnu
+C:\ecole\git\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(110,10): warning C4129: '_' : caractère de séquence d'échappement non reconnu
+C:\ecole\git\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(111,10): warning C4129: ' ' : caractère de séquence d'échappement non reconnu
+C:\ecole\git\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(112,10): warning C4129: '/' : caractère de séquence d'échappement non reconnu
+C:\ecole\git\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(113,10): warning C4129: '_' : caractère de séquence d'échappement non reconnu
+C:\ecole\git\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(122,4): warning C4551: liste d'arguments manquante dans l'appel de fonction

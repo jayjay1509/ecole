@@ -1,9 +1,1 @@
-﻿  chasse au tresor.cpp
-J:\01_ECOLE\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(89,25): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
-J:\01_ECOLE\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(125,12): warning C4129: '~' : caractère de séquence d'échappement non reconnu
-J:\01_ECOLE\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(125,12): warning C4129: '.' : caractère de séquence d'échappement non reconnu
-J:\01_ECOLE\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(126,12): warning C4129: '_' : caractère de séquence d'échappement non reconnu
-J:\01_ECOLE\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(127,12): warning C4129: ' ' : caractère de séquence d'échappement non reconnu
-J:\01_ECOLE\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(128,12): warning C4129: '/' : caractère de séquence d'échappement non reconnu
-J:\01_ECOLE\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(129,12): warning C4129: '_' : caractère de séquence d'échappement non reconnu
-  chasse au tresor.vcxproj -> J:\01_ECOLE\ecole\c++\projet 06.09.20223\chasse au tresor\x64\Debug\chasse au tresor.exe
+﻿  chasse au tresor.vcxproj -> C:\ecole\git\c++\projet 06.09.20223\chasse au tresor\x64\Debug\chasse au tresor.exe

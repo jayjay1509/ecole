@@ -128,6 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="chasse au tresor.cpp" />
+    <ClCompile Include="maps chasse au tresor.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="calcu chasse au tresore.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
